@@ -1,0 +1,50 @@
+html{
+  height: 100%;
+}
+body{
+  height: 100%;
+}
+#root{
+  height: 100%;
+}
+.App{
+  text-align: center;
+  background-color: #D8C4B6;
+  height: 100%;
+
+}
+.counter{
+  /* background-color: blue; */
+  height: 90%;
+  /* display: flex; */
+  font-size: 80px;
+  color: #4F709C;
+  text-align: center;
+  margin: 0 auto;
+  border: 80px;
+  /* margin-top: 30px; */
+  padding-top: 50px;
+}
+.count{ 
+  /* background-color: #393646; */
+  font-size: 70px;
+  margin: 80px;
+}
+button{
+  background-color: #213555;
+  /* display: flex;
+  flex-direction: column; */
+  justify-content: space-between;
+  align-items: center;
+  font-size: 100px;
+  width: 100px;
+  margin: 30px;
+}
+/* .one{
+  font-size: 70px;
+  margin: 50px;
+}
+.two{
+  font-size: 70px;
+}
+ */
